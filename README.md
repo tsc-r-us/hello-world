@@ -1,10 +1,10 @@
-# TSC "R" Us
-Typescript starting point.
+# Hello World (TSC "R" Us)
+Very basic "Hello World" Typescript starting point.
 
 ## Getting start
 Click `Use this template`.
 
-Clone the repo down and install the depenedencies:
+Clone the repo down and install the dependencies:
 ```
 npm install
 ```
